@@ -1,0 +1,21 @@
+{
+  "name": "ts-skeleon",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "rob <student@epicodus.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
